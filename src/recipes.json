@@ -53,33 +53,36 @@
       "dateAdded": "2022-02-23"
     },
     {
-      "name": "Soviet glazed cottage cheese bars",
+      "name": "South East asian fruit salad",
       "image": "https://cdni.rbth.com/rbthmedia/images/2021.11/original/618cd40885600a0bab7fbccc.jpg",
       "description": "mmmmm",
       "yield": {"amount": 2, "unit": "portion"},
       "ingredients": [
-        {"type": "Cottage cheese", "amount": 300, "unit": "g"},
-        {"type": "Soft butter", "amount": 40, "unit": "g"},
-        {"type": "Sugar", "amount": 40, "unit": "g"},
-        {"type": "Salt", "amount": 1, "unit": "pinch"},
-        {"type": "Vanilla extract", "amount": 2, "unit": "tsp"},
-        {"type": "Milk chocolate", "amount": 80, "unit": "g"},
-        {"type": "Vegetable oil", "amount": 20, "unit": "ml"}
+        {"type": "One red chilli", "amount": , "unit": ""},
+        {"type": "Tamarind paste", "amount" 3: , "unit": "tsp"},
+        {"type": "Palm sugar", "amount" 1: , "unit": "tsp"},
+        {"type": "One lime", "amount": , "unit": ""},
+        {"type": "Cooked peanuts", "amount": , "unit": ""},
+        {"type": "Pineapple", "amount": , "unit": ""},
+        {"type": "Green apple", "amount": , "unit": ""}
+        {"type": "Pear", "amount": , "unit": ""}
+        {"type": "Cucumber", "amount": , "unit": ""}
+        {"type": "Mango", "amount": , "unit": ""}
       ],
       "instructions": [
-        {"text": "Mix all the ingredients (Aside from chocolate and oil) until you get a creamy paste-like consistency. Add the mix to a piping bag and make small little bar shapes on a tray. Then place them into the freezer until they are set."},
+        {"text": "Roll the chilli in the palm of your hand to bring out its flavour. Next finely chop the chilli. Add some of the seeds, the more seeds you add the spicer it will be. Add the chopped chilli, tamarind paste and palm sugar to a bowl. Then add the zest and juice of the lime to the bowl (Zest is the grated skin). "},
 
-        {"text": "While the bars are being frozen, you have plenty of time to make the glaze: melt chocolate on a bain-marie, add oil and stir with a spatula until very smooth and glossy. It should be quite hot and runny right before glazing. "},
+        {"text": "Either toasted or buy toasted peanuts. Crush the peanuts up so you get small little chunks and then add that to the bowl of ingredients and mix very well. "},
 
-        {"text": "When the bars are completely set, take them out of the freezer. Working with one at a time, string a cold curd bar on a skewer or a toothpick and dip in hot glaze or just cover from all sides using a tablespoon. It needs to be done quite fast."},
+        {"text": "Then on a plate, cut all the fruit into small to medium sized chunks. Make sure not to add the watery seedy centre of the cucumber as it will water down the sauce we made and make it too runny. "},
 
-        {"text": "Wrap in tinfoil and place back in the freezer to store them."}
+        {"text": "Once all the fruit is chopped up add the sauce and mix them together well, make sure all the fruit is evenly coated and then it’s ready to serve."}
       ],
-      "prepTime": 45,
+      "prepTime": 15,
       "cookTime": 0,
-      "calories": 300,
-      "tags": ["sweet", "cold"],
-      "countryOfOrigin": "russia",
+      "calories": 120,
+      "tags": ["Tangy", "cold"],
+      "countryOfOrigin": "South East Asia",
       "dateAdded": "2022-02-23"
     },
     {

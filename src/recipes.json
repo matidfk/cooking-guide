@@ -2,7 +2,7 @@
     {
       "name": "Soviet glazed cottage cheese bars",
       "image": "https://cdni.rbth.com/rbthmedia/images/2021.11/original/618cd40885600a0bab7fbccc.jpg",
-      "description": "mmmmm",
+      "description": " The most popular Soviet dairy sweet made at home",
       "yield": {"amount": 2, "unit": "portion"},
       "ingredients": [
         {"type": "Cottage cheese", "amount": 300, "unit": "g"},
@@ -32,7 +32,7 @@
     {
       "name": "Lebanese Roasted stuffed onions",
       "image": "https://steamykitchen.com/wp-content/uploads/2013/02/moroccan-stuffed-onions-recipe-1070.jpg",
-      "description": "yea looks yummy",
+      "description": "Can be made as a snack, appetizer or serve as a main.",
       "yield": {"amount": 2, "unit": "portion"},
       "ingredients": [
         {"type": "Cottage cheese", "amount": 300, "unit": "g"},

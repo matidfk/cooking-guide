@@ -42,7 +42,7 @@
       ],
       "instructions": [
         {"text": "Soak the rice in a bowl of cold water. Then fill another pot with boiling water, enough to cover the onions and a bit more. Cut the top and the bottom off the onions and cut down one side of the onions. Then place them in the boiling water and let them cook for 10 minutes (or just until the layers are soft and easily separate) ", "image": "poo_in_the_pee.jpg"},
-        {"text": "Drain the rice completely, then in a large mixing bowl add the rice, tomato paste, herbs, salt and pepper, coriander and ground meat. Mix well. Then once the onions have finished, open them up to make a shell and place 1 heaping tablespoon of the filling inside then wrap the onion around it to close it (but not too tightly so the rice can expand during cooking). "}
+        {"text": "Drain the rice completely, then in a large mixing bowl add the rice, tomato paste, herbs, salt and pepper, coriander and ground meat. Mix well. Then once the onions have finished, open them up to make a shell and place 1 heaping tablespoon of the filling inside then wrap the onion around it to close it (but not too tightly so the rice can expand during cooking). "},
         {"text": "In a large, oven-safe saute pan over medium-high heat, swirl in the olive oil. When the pan is hot, place the onions seam-side down. Let cook for 2 minutes until the bottoms have browned slightly. Add vinegar to the pan and sprinkle the tops of the onions with sugar. Cover the pan and turn the heat to low. Cook for 20 minutes or until the meat and rice are fully cooked, rotating the onions halfway during cooking."}
       ],
       "prepTime": 45,
@@ -58,16 +58,16 @@
       "description": "Light zesty and tangy, a great pick me up for breakfast or a snack later in the day",
       "yield": {"amount": 2, "unit": "portion"},
       "ingredients": [
-        {"type": "One red chilli", "amount": , "unit": ""},
-        {"type": "Tamarind paste", "amount" 3: , "unit": "tsp"},
-        {"type": "Palm sugar", "amount" 1: , "unit": "tsp"},
-        {"type": "One lime", "amount": , "unit": ""},
-        {"type": "Cooked peanuts", "amount": , "unit": ""},
-        {"type": "Pineapple", "amount": , "unit": ""},
-        {"type": "Green apple", "amount": , "unit": ""}
-        {"type": "Pear", "amount": , "unit": ""}
-        {"type": "Cucumber", "amount": , "unit": ""}
-        {"type": "Mango", "amount": , "unit": ""}
+        {"type": "Red chilli", "amount": 1, "unit": ""},
+        {"type": "Tamarind paste", "amount": 3, "unit": "tsp"},
+        {"type": "Palm sugar", "amount": 1, "unit": "tsp"},
+        {"type": "Lime", "amount": 1, "unit": ""},
+        {"type": "Cooked peanuts", "amount": 0, "unit": ""},
+        {"type": "Pineapple", "amount": 0, "unit": ""},
+        {"type": "Green apple", "amount": 0, "unit": ""},
+        {"type": "Pear", "amount": 0, "unit": ""},
+        {"type": "Cucumber", "amount": 0, "unit": ""},
+        {"type": "Mango", "amount": 0, "unit": ""}
       ],
       "instructions": [
         {"text": "Roll the chilli in the palm of your hand to bring out its flavour. Next finely chop the chilli. Add some of the seeds, the more seeds you add the spicer it will be. Add the chopped chilli, tamarind paste and palm sugar to a bowl. Then add the zest and juice of the lime to the bowl (Zest is the grated skin). "},

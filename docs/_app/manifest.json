@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-230546bd.js",
+    "file": "start-f46aae2c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -34,27 +34,27 @@
     ]
   },
   "src/routes/RecipeCard.svelte": {
-    "file": "pages/RecipeCard.svelte-a4e9857f.js",
+    "file": "pages/RecipeCard.svelte-81fb3602.js",
     "src": "src/routes/RecipeCard.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b2366b0d.js",
-      "_recipes-0adb65ce.js"
+      "_recipes-d1f319a8.js"
     ],
     "css": [
       "assets/pages/RecipeCard.svelte-4a1a6aa0.css"
     ]
   },
   "src/routes/recipes.svelte": {
-    "file": "pages/recipes.svelte-fd4f8db2.js",
+    "file": "pages/recipes.svelte-b5817b8c.js",
     "src": "src/routes/recipes.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b2366b0d.js",
       "src/routes/RecipeCard.svelte",
-      "_recipes-0adb65ce.js"
+      "_recipes-d1f319a8.js"
     ],
     "css": [
       "assets/pages/recipes.svelte-2930f248.css"
@@ -73,13 +73,13 @@
     ]
   },
   "src/routes/recipe/[recipe].svelte": {
-    "file": "pages/recipe/_recipe_.svelte-db41e3e8.js",
+    "file": "pages/recipe/_recipe_.svelte-33ca6571.js",
     "src": "src/routes/recipe/[recipe].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-b2366b0d.js",
-      "_recipes-0adb65ce.js"
+      "_recipes-d1f319a8.js"
     ],
     "css": [
       "assets/pages/recipe/_recipe_.svelte-090a1286.css"
@@ -88,7 +88,7 @@
   "_vendor-b2366b0d.js": {
     "file": "chunks/vendor-b2366b0d.js"
   },
-  "_recipes-0adb65ce.js": {
-    "file": "chunks/recipes-0adb65ce.js"
+  "_recipes-d1f319a8.js": {
+    "file": "chunks/recipes-d1f319a8.js"
   }
 }

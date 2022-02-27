@@ -41,8 +41,9 @@
         {"type": "Vanilla extract", "amount": 2, "unit": "tsp"}
       ],
       "instructions": [
-        {"text": "pee in the poo", "image": "poo_in_the_pee.jpg"},
-        {"text": "poo idk but without pic"}
+        {"text": "Soak the rice in a bowl of cold water. Then fill another pot with boiling water, enough to cover the onions and a bit more. Cut the top and the bottom off the onions and cut down one side of the onions. Then place them in the boiling water and let them cook for 10 minutes (or just until the layers are soft and easily separate) ", "image": "poo_in_the_pee.jpg"},
+        {"text": "Drain the rice completely, then in a large mixing bowl add the rice, tomato paste, herbs, salt and pepper, coriander and ground meat. Mix well. Then once the onions have finished, open them up to make a shell and place 1 heaping tablespoon of the filling inside then wrap the onion around it to close it (but not too tightly so the rice can expand during cooking). "}
+        {"text": "In a large, oven-safe saute pan over medium-high heat, swirl in the olive oil. When the pan is hot, place the onions seam-side down. Let cook for 2 minutes until the bottoms have browned slightly. Add vinegar to the pan and sprinkle the tops of the onions with sugar. Cover the pan and turn the heat to low. Cook for 20 minutes or until the meat and rice are fully cooked, rotating the onions halfway during cooking."}
       ],
       "prepTime": 45,
       "cookTime": 0,

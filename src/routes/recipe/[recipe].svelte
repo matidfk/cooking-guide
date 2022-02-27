@@ -1,5 +1,8 @@
 <script>
-	export let recipe;
+    import { page } from '$app/stores';
+    // @ts-ignore
+    import recipes from '/src/recipes.json';
+    const recipe = recipes[$page.params.recipe];
 </script>
 
 <div id="container">
@@ -10,7 +13,7 @@
 	<h2>Ingredients:</h2>
 	<ul>
 		{#each recipe.ingredients as ing}
-			<li><b>{ing.amount}</b> {ing.unit} {ing.type}</li>
+			<li><b>{ing.amount}{ing.unit}</b> {ing.type}</li>
 		{/each}
 	</ul>
 
@@ -18,6 +21,7 @@
 	<ol>
 		{#each recipe.instructions as ins}
 			<li>{ins.text}</li>
+            <br>
 		{/each}
 	</ol>
 </div>

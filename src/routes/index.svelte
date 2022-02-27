@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import Recipe from './Recipe.svelte';
+    import RecipesList from './RecipesList.svelte';
+    import '../style.css'
+    // @ts-ignore
+    import recipes from '/src/recipes.json';
+</script>
+
+<RecipesList recipes={recipes}></RecipesList>
+
+<style>
+</style>

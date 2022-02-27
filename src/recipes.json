@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Soviet glazed cottage cheese bars",
+      "image": "url_to_image",
+      "description": "mmmm yummy ice cheese",
+      "yield": {"amount": 2, "unit": "portion"},
+      "ingredients": [
+        {"type": "Cottage cheese", "amount": 300, "unit": "g"},
+        {"type": "Soft butter", "amount": 40, "unit": "g"},
+        {"type": "Salt", "amount": 1, "unit": "pinch"},
+        {"type": "Vanilla extract", "amount": 2, "unit": "tsp"}
+      ],
+      "instructions": [
+        {"text": "pee in the poo", "image": "poo_in_the_pee.jpg"},
+        {"text": "poo idk but without pic"}
+      ],
+      "prepTime": 45,
+      "cookTime": 0,
+      "calories": 300,
+      "tags": ["sweet", "cold"],
+      "countryOfOrigin": "russia",
+      "dateAdded": "2022-02-23"
+    },
+    {
+      "name": "not Soviet glazed cottage cheese bars",
+      "image": "url_to_image",
+      "description": "mmmm yummy ice cheese",
+      "yield": {"amount": 2, "unit": "portion"},
+      "ingredients": [
+        {"type": "Cottage cheese", "amount": 300, "unit": "g"},
+        {"type": "Soft butter", "amount": 40, "unit": "g"},
+        {"type": "Salt", "amount": 1, "unit": "pinch"},
+        {"type": "Vanilla extract", "amount": 2, "unit": "tsp"}
+      ],
+      "instructions": [
+        {"text": "pee in the poo", "image": "poo_in_the_pee.jpg"},
+        {"text": "poo idk but without pic"}
+      ],
+      "prepTime": 45,
+      "cookTime": 0,
+      "calories": 300,
+      "tags": ["sweet", "cold"],
+      "countryOfOrigin": "russia",
+      "dateAdded": "2022-02-23"
+    }
+    
+  ]

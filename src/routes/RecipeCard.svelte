@@ -6,7 +6,7 @@
 </script>
 
 {#if recipe}
-	<a href="recipe/{index}" id="card" style="background-image: url('{recipe.image}')">
+	<a href="/recipe/{index}" id="card" style="background-image: url('{recipe.image}')">
 		<div id="top">
 			<div id="name"><h2>{recipe.name}</h2></div>
 			<div id="time">⏱ {recipe.cookTime + recipe.prepTime} min</div>
